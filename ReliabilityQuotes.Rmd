@@ -15,7 +15,7 @@ While this quote is more than 20 years old, things have not changed much.  If yo
 
 ## Good Design Sows the Seeds of Quality
 
-*Then there's reliability. It makes an obvious difference to farmers up against a shrinking harvest window and a bank loan. "Farmers tell us, 'Whatever you do, don't take me out of the field,'" says Don Yarbrough, Deere's manager of worldwide combine development. "Anything that interferes with uptime, we jump on like crazy." Reliability also matters to heavy-equipment and commercial landscapers, who view their machines as moneymakers. And even homeowners with lawns in the suburbs won't tolerate downtime -- in part, because they probably don't know how to make even simple repairs.*
+*Then there's reliability. It makes an obvious difference to farmers up against a shrinking harvest window and a bank loan. "Farmers tell us, 'Whatever you do, don't take me out of the field,'" says Don Yarbrough, Deere's manager of worldwide combine development. "Anything that interferes with uptime, we jump on like crazy." Reliability also matters to heavy-equipment and commercial landscapers, who view their machines as moneymakers. And even homeowners with lawns in the suburbs won't tolerate downtime - in part, because they probably don't know how to make even simple repairs.*
 
 *Design News*, 2/26/2001
 
