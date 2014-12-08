@@ -8,7 +8,7 @@ output: pdf_document
 http://www.fortune.com/indexw.jhtml?channel=artcol.jhtml&doc_id=205246
 
 Industrial Management & Technology
-Using Rocket Science To Make Sugar Drinks ; P&G borrowed reliability engineering from Los Alamos to boost output- -and saved $1 billion. 
+Using Rocket Science To Make Sugar Drinks; P&G borrowed reliability engineering from Los Alamos to boost output - and saved $1 billion. 
 
 Fortune Magazine 
 
