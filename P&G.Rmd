@@ -1,0 +1,67 @@
+---
+title: "Using Rocket Science To Make Sugar Drinks"
+author: "Matthew Boyle"
+date: "November 26, 2001"
+output: pdf_document
+---
+
+http://www.fortune.com/indexw.jhtml?channel=artcol.jhtml&doc_id=205246
+
+Industrial Management & Technology
+Using Rocket Science To Make Sugar Drinks ; P&G borrowed reliability engineering from Los Alamos to boost output- -and saved $1 billion. 
+
+Fortune Magazine 
+
+Time Inc. 
+
+Page 196B [Not Available In All Editions] 
+
+(Copyright 2001) 
+
+You'd think the people who design and make nuclear weapons would have absolutely nothing to say to those who design and make consumer products like fruit drinks and diapers. But in the world of reliability engineering, the two sets of experts have plenty in common. In fact, making consumer products is actually more complex than making nukes when it comes to achieving reliability on the production line. It's not rocket science - it's tougher. 
+
+Just ask the folks at Los Alamos National Laboratory who teamed up with engineers at Procter & Gamble to improve P&G's product reliability, that is, the amount of good stuff a factory makes vs. how much it could have made had everything gone perfectly. The collaboration, which started eight years ago, worked so well that all of P&G's 125 plants worldwide, making a huge range of products from diapers to detergents, have been transformed. The Atlanta fruit-drink bottling plant shown on these pages, for example, juiced up its productivity by 44%. But Harry Martz, the leader of the statistical team at Los Alamos, says he'll never forget his shock the first time he glimpsed the complexity of a P&G manufacturing line: "Rockets are much easier." 
+
+Reliability engineering (RE) is essentially the study of failures - their causes and effects, and the overall financial impact on the plant in which they occur. Since 1993, when it began developing RE, P&G claims to have saved more than $1 billion. Emboldened by this success, P&G has started peddling its reliability toolbox to other companies under the name Vulcan. But so far there have been few takers, partly because of P&G's traditional secretiveness. Without much information to go on, specialists in reliability are likely to scoff that P&G hasn't come up with anything new, or, if it has, fails to explain it. 
+
+But first things first: How in the world did Procter & Gamble, the $39-billion-a-year purveyor of household staples like Tide, Bounty, and Crest, hook up with a bunch of weapons scientists? Ask Tom Lange, a 23-year P&G veteran and a modeling and simulation expert at the company's Corporate Engineering Technologies Lab in West Chester, Ohio. When P&G began focusing on process reliability in the 1980s, it did so largely by learning how to repair failures faster to keep downtime to a minimum. 
+
+"We were building lousy systems and just figuring out how to fix them faster and faster," Lange recalls. He discussed his concerns with Art Koehler, a reliability engineer in the diaper division. On the old production line that made Pampers diapers, 154 things could go wrong at any time; each foul-up took a certain amount of time to fix - often begetting other foul-ups. For example, the rubber band that makes a diaper cuff unwinds from a big spool. If it breaks, the production line must be stopped while the band is threaded through the machine again, respooled, and tied off. Meanwhile, the glue on the rubber band drips onto the line and must be scraped off, leading to further delay. "This was starting to drive us crazy," Lange says. 
+
+"You know, they don't do this with the space shuttle," Lange recalls Koehler saying one day. "Why is it that we seem to tolerate 200 rubber band breaks a week, and it's just routine? Why don't we fix it so that it doesn't happen?" So the two went off in search of reliability experts who could solve their problem. 
+
+During a stop in Albuquerque they met Ken Blemel, who ran a small reliability shop. He said their answer might lie "up the hill" in Los Alamos but warned about the experts there: "They are very weird, and you'll never get anything out of them." P&G went anyway, though Lange was reluctant, thinking, "What do we have in common?" Plenty, as it turned out. 
+
+After the Cold War ended, Los Alamos began partnering with industry and has done hundreds of collaborative and sponsored research jobs for companies like General Motors and Raytheon. But Los Alamos had never partnered with a consumer products company. 
+Any initial wariness vanished as the odd couple realized that while they came from different worlds, they spoke the same language. "P&G had been collecting data for years on its production lines but had no good tools to analyze the data," recalls statistician Martz. 
+
+Solving the problems required a new way of thinking about system reliability. Because of the hundreds of possible failures on a typically complex P&G production line, which runs continuously, normal RE rules for making things like rockets and jet aircraft did not apply. 
+
+To address that complexity Martz used a "competing risk" model, in which all possible foul-ups are seen as competing with one another to make the system fail. Commonly used today, the competing risk model was rather controversial in 1993. "I was scared - I had no idea it would work," says Martz. It did. The teams were able to develop virtual models so precise that P&G could play what-if games and study the effects of production line changes without building any actual equipment. "That's where money is really saved," says Martz. 
+
+Here's what competing risk told them: Say you have two failures you can fix. One happens once a week and takes two hours to fix. The other happens 120 times a week but takes only a minute to fix. Which would a plant tackle first? Probably the two-hour problem, since two hours' downtime means the plant manager catches hell. But "that's generally the wrong answer," Lange says, because each little failure can beget more failures, and so can each repair. "We changed the way people think about what's wrong with the line." 
+
+In 1995 the RE approach was field-tested in the rollout of Pampers Stretch diapers, which involved a major retooling of the production lines. The approach lopped six months off the time needed to get the line back to its desired product reliability. In 1997, when P&G added new equipment to its diaper lines, it used the RE tools to improve the designs. Result: Product reliability improved 6%, and the company saved $80 million in capital costs. 
+
+Just what are these RE tools? Well, P&G has 28 of them, for applications up and down the plant hierarchy. Explains Lange: "[The RE toolbox] has things that tell the plant manager what to do. It has things for middle management, for design engineers who make the machines, for the people who work on the line, and for the people who buy the raw materials." A tool for line managers, for instance, the "expert cost model," predicts how much money you can save by improving product reliability by 1%. 
+
+To see the toolbox in action, head down to P&G's 300,000-square-foot Atlanta plant, near Camp Creek Parkway. There 124 employees churn out Sunny Delight, a sugary fruit drink, on two production lines 24 hours a day, five days a week. Before RE, the Sunny Delight plant was a gloomy mess. Its 40% product reliability ranked it 165th out of P&G's 167 plants worldwide (since reduced to 125 plants). Like an Indy pit crew, workers would spring into action to fix a glitch and end their shift bathed in sweat. Then again, plant manager George Simms says, "the term 'pit crew' is generous - I would call it a gang." They might fix the glitch, but not the problem that caused it. 
+
+Fourteen months after adopting RE, the plant leapt to No. 4 among the 167. Since 1997 it has seen productivity increase 44% and has cut controllable costs by 33%, worth tens of millions of dollars of savings. 
+
+One example illustrates the appeal of RE. In August 2000 the production line for filling small bottles (18.5 ounce and 6.75 ounce) with Sunny Delight shifted from pop-tops to screw-on caps, which meant a complex overhaul. For one thing, getting the torque just right on the new bottle tops was tricky. Normally the need for fine-tuning would slow the line for six to nine months. Thanks to RE's simulation tools, the line was back up to speed in two days, saving P&G $100,000 from not having to supply customers from other Sunny Delight plants. "Before, the line was driving us," says Simms. "Now we are driving the line." 
+
+RE's benefits extend throughout the plant. Improved reliability and productivity have cut inventory by $5 million and have almost eliminated the need for costly refrigerated storage outside the plant. Freed from the "Indy pit crew" approach, workers can concentrate on new projects. Not surprisingly, employee attrition is down by two-thirds. Changeovers, which occur when a line shifts, say, from making half-gallon to one-gallon containers, used to shut down everything for an hour. Now changeovers take 12 minutes. Failures still happen - a boxmaker jammed twice in 15 minutes one recent afternoon - but, thanks to a newly added buffer area and many other improvements, they don't slow down the filler, the heart of the line. 
+
+It's clear that RE works for P&G, but whether others will buy it remains to be seen. P&G's licensing team claims that their toolbox can work in any factory. But P&G won't divulge clients' names or projected revenues, simply saying they have at least one customer. International Paper heard P&G's pitch and turned Vulcan down. Other prospective clients, such as H.J. Heinz, Kraft Foods, and Nestle USA, all declined to comment. 
+Middle managers often stand in the way of implementing RE. "They are stuck between top management and the hourly work force, and have the most to lose," says Mark Latino, vice president of sales and marketing at Reliability Center, a Hopewell, Va., consulting firm. The Sunny Delight plant went from 25 managers to ten. 
+
+Some reliability experts see nothing new in P&G's toolbox, likening it to Six Sigma and other well-established processes. Ivara, a software consulting firm in Burlington, Ontario, says P&G approached it earlier this year with a proposal to resell the RE toolbox to others. "We took it to our reliability guru, and he said this is old-world thinking," says sales manager Nick Haley, but he adds that P&G didn't share much information. 
+
+Procter & Gamble's solid reputation among engineers will get it in the door, but "they will not get sales on faith," says Rick Kalinauskas, a reliability engineer who was turned off when P&G clammed up in response to his questions during a sales pitch. What irony: A company world-renowned for its marketing aspires to market its brainpower but finds it rough going. Perhaps that's because P&G has always been tight-lipped, and old habits die hard. If P&G is going to benefit fully from its impressive new toolbox, it will have to become as savvy selling RE as it is selling shampoo. At least P&G won't have to trek out to the desert to learn that. 
+
+FEEDBACK: mboyle@fortunemail.com. Stories from the Industrial Management and Technology section can be found at fortune.com/imt. Executives in manufacturing and research and others eligible to receive FORTUNE's Industrial Edition can subscribe by calling 888- 394-5472. 
+
+Quote: "We were building lousy systems and just figuring out how to fix them faster and faster." What irony: When a world-renowned marketer aspires to market its brainpower, it finds the going rough. 
+
+PHOTOGRAPHS BY GREGORY FOSTER Bottles of Sunny Delight weave through the production line at P&G's Atlanta plant. COLOR PHOTO: PHOTOGRAPHS BY GREGORY FOSTER The "surge table" prevents minor glitches in production from stopping the entire line. COLOR PHOTO: PHOTOGRAPHS BY GREGORY FOSTER P&G's Lange: "We changed the way people think about what's wrong with the line." 
