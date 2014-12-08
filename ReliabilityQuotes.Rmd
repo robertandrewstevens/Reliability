@@ -19,7 +19,7 @@ While this quote is more than 20 years old, things have not changed much.  If yo
 
 *Design News*, 2/26/2001
 
-## Using Rocket Science To Make Sugar Drinks:  P&G borrowed reliability engineering from Los Alamos to boost output -- and saved $1 billion
+## Using Rocket Science To Make Sugar Drinks:  P&G borrowed reliability engineering from Los Alamos to boost output - and saved $1 billion
 
 *You'd think the people who design and make nuclear weapons would have absolutely nothing to say to those who design and make consumer products like fruit drinks and diapers.  But in the world of reliability engineering, the two sets of experts have plenty in common.  In fact, making consumer products is actually more complex than making nukes when it comes to achieving reliability on the production line.  It's not rocket science -- it's tougher.*
 
