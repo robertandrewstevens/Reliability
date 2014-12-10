@@ -35,7 +35,7 @@ Blunders were committed at practically every level. In designing the compressor,
 
 Ultimately, the problems stemmed from poor corporate communication. Several low-level salaried employees at GE - the technicians who did the actual pre-production testing - say they suspected that the compressor might be defective and told their superiors. But senior executives, six levels removed, heard only good news.
 
-In retrospect, Richard Burke, the appliance division's current chief of technology and manufacturing, says he would have done it differently. "I'd have gone and found the lowest damn level people we had . . . and just sat down in their little cubbyholes and asked them `How are things today?' "
+In retrospect, Richard Burke, the appliance division's current chief of technology and manufacturing, says he would have done it differently. "I'd have gone and found the lowest damn level people we had . . . and just sat down in their little cubbyholes and asked them `How are things today?'"
 
 How could such errors be made at GE, widely acclaimed for its management?
 
