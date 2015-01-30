@@ -22,13 +22,13 @@ The three most obvious benefits of reliability are reduced development time, red
 
 ![Cost of Unreliability Iceberg](CostOfUnreliabilityIceberg.jpg)
 
-Analogous to an iceberg where the majority of mass is below the surface of the water, the highest warranty costs are often hidden costs. We often quantify the costs of warranty claims and PIPs, but there are many other associated costs that are not readily quantifiable:
+Analogous to an iceberg where the majority of mass is below the surface of the water, the highest warranty costs are often hidden costs. We often quantify the costs of warranty claims and recalls, but there are many other associated costs that are not readily quantifiable:
 
 - Cost of unassociated claims
 
 - Rework, including:  cost for missing ship dates; factory floor space that must be dedicated to end-of-line repairs; work-in-process inventory; cost of inspection
 
-- DTAC time and expense
+- Customer support time and expense
 
 - Engineers spend time on current products instead of future products
 
@@ -42,7 +42,7 @@ Analogous to an iceberg where the majority of mass is below the surface of the w
 
 ![Reliability and Life Cycle Costs](ReliabilityAndLifeCycleCosts.jpg)
 
-This chart provides two views of reliability and life cycle costs.  The traditional view, by measuring only the "tip of the iceberg" costs (warranty and PIPs), sees program costs increasing as more effort is expended on quality/reliability improvement.  This suggests that the minimum total cost occurs in the middle.  The modern view, by measuring the "below the surface of the water" costs as well as above, sees program costs decreasing as more effort is expended on quality/reliability improvement.  This suggests that the minimum total cost occurs at 100% effort.  
+This chart provides two views of reliability and life cycle costs.  The traditional view, by measuring only the "tip of the iceberg" costs (warranty, allowances and recalls), sees program costs increasing as more effort is expended on quality/reliability improvement.  This suggests that the minimum total cost occurs in the middle.  The modern view, by measuring the "below the surface of the water" costs as well as above, sees program costs decreasing as more effort is expended on quality/reliability improvement.  This suggests that the minimum total cost occurs at 100% effort.  
 
 Many people think this means we are proscribing maximum effort on quality/reliability improvement, but that is not the intention of these charts.  They are intended to show that you do not save money by cutting back on quality/reliability.  In fact you're probably adding costs to the program, because you will incur far more warranty costs than the savings from quality/reliability effort reduction.  Maybe this is what got Chrysler in so much trouble?
 
