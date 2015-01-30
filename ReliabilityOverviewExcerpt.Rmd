@@ -16,7 +16,7 @@ output: pdf_document
 - Market share
     + Reliability is a dominant factor, e.g., Chevy Malibu versus Toyota Camry
 
-The three most obvious benefits of reliability are reduced development time, reduced warranty cost, and increased market share. Reliability has a significant impact on Customer Satisfaction, Recurring Maintenance Costs, Ability to meet Service Objectives, Capital Costs, Ability to Market Products/Services, and Safety. Therefore improving reliability is important to business units because it will help to reduce Testing Cost (by reducing test time required to meet goal), Warranty Cost, After Warranty Maintenance Cost, and PIPs. Reliability will also help business units by allowing them to recognize when a product needs special care and what areas on a product are deficient.
+The three most obvious benefits of reliability are reduced development time, reduced warranty cost, and increased market share. Reliability has a significant impact on Customer Satisfaction, Recurring Maintenance Costs, Ability to meet Service Objectives, Capital Costs, Ability to Market Products/Services, and Safety. Therefore improving reliability is important to business units because it will help to reduce Testing Cost (by reducing test time required to meet goal), Warranty Cost, After Warranty Maintenance Cost, allowances and recalls. Reliability will also help business units by allowing them to recognize when a product needs special care and what areas on a product are deficient.
 
 ## Cost of Unreliability Iceberg
 
