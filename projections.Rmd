@@ -1,0 +1,59 @@
+---
+title: "projections"
+author: "Robert A. Stevens"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+From "projections.doc" (5/3/2001 10:22 AM)
+
+```{r, fig.width=10, fig.height=7.5}
+plot.proj <- function(t1, t2, current, adj, proj, d, b, m) {
+  
+  time <- (t2 * c(1:100))/100
+  bias <- (d * m * b)/time
+  max.y <- 1.25 * current
+
+  plot(
+    time, 
+    bias + adj, 
+    type = "n", 
+    xlim = c(0, 1.04 * t2), 
+    ylim = c(0, max.y), 
+    xaxs = "i", 
+    yaxs = "i", 
+    xlab = "Time", 
+    ylab = "ROCOF"
+  )
+
+  lines(time, bias + adj, lty = 2, lwd = 3)
+  segments(0, current, t1, current)
+  segments(t1, adj, t2, adj, lty = 3)
+  segments(t1, proj, t2, proj)
+  segments(t1, 0, t1, current)
+  segments(t1, 0, t1, proj)
+  segments(t2, 0, t2, adj)
+  segments(t2, 0, t2, proj)
+}
+
+plot.proj(500, 1000, 0.038, 0.0226, 0.027758, 0.7, 0.526, 7)
+plot.proj(500, 1000, 0.038, 0.0226, 0.031200, 0.7, 0.878, 7)
+plot.proj(500, 1000, 0.038, 0.0226, 0.039710, 0.7, 1.746, 7)
+```
+
+```{r, fig.width=10, fig.height=7.5}
+plot.proj.time <- function(adj, d, b, m) {
+  time <- (100 * d * m * b)/adj # 1% of adjusted
+  time
+}
+
+plot.proj.time(0.0226, 0.7, 0.526, 7)
+plot.proj(500, 12000, 0.038, 0.0226, 0.027758, 0.7, 0.526, 7)
+
+plot.proj.time(0.0226, 0.7, 0.878, 7) 
+plot.proj(500, 19500, 0.038, 0.0226, 0.031200, 0.7, 0.878, 7)
+
+plot.proj.time(0.0226, 0.7, 1.746, 7)
+plot.proj(500, 38400, 0.038, 0.0226, 0.039710, 0.7, 1.746, 7)
+```
+
