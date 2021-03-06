@@ -2,12 +2,12 @@
 title: "Chilling Tale"
 author: "Thomas F. O'Boyle"
 date: "May 07, 1990"
-output: pdf_document
+output: github_document
 ---
 
 ## GE Refrigerator Woes Illustrate the Hazards In Changing a Product
 
-## Firm Pushed Development Of Compressor Too Fast, Failed to Test Adequately
+*Firm Pushed Development Of Compressor Too Fast, Failed to Test Adequately*
 
 ## Missing: the `Magical Balance'
 
