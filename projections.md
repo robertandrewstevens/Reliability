@@ -1,13 +1,11 @@
----
-title: "projections"
-author: "Robert A. Stevens"
-date: "`r Sys.Date()`"
-output: github_document
----
+projections
+================
+Robert A. Stevens
+2021-03-05
 
-From "projections.doc" (5/3/2001 10:22 AM)
+From “projections.doc” (5/3/2001 10:22 AM)
 
-```{r, fig.width=10, fig.height=7.5}
+``` r
 plot.proj <- function(t1, t2, current, adj, proj, d, b, m) {
   
   time <- (t2 * c(1:100))/100
@@ -37,23 +35,59 @@ plot.proj <- function(t1, t2, current, adj, proj, d, b, m) {
 }
 
 plot.proj(500, 1000, 0.038, 0.0226, 0.027758, 0.7, 0.526, 7)
+```
+
+![](projections_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+
+``` r
 plot.proj(500, 1000, 0.038, 0.0226, 0.031200, 0.7, 0.878, 7)
+```
+
+![](projections_files/figure-gfm/unnamed-chunk-1-2.png)<!-- -->
+
+``` r
 plot.proj(500, 1000, 0.038, 0.0226, 0.039710, 0.7, 1.746, 7)
 ```
 
-```{r, fig.width=10, fig.height=7.5}
+![](projections_files/figure-gfm/unnamed-chunk-1-3.png)<!-- -->
+
+``` r
 plot.proj.time <- function(adj, d, b, m) {
   time <- (100 * d * m * b)/adj # 1% of adjusted
   time
 }
 
 plot.proj.time(0.0226, 0.7, 0.526, 7)
+```
+
+    ## [1] 11404.42
+
+``` r
 plot.proj(500, 12000, 0.038, 0.0226, 0.027758, 0.7, 0.526, 7)
+```
 
+![](projections_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+
+``` r
 plot.proj.time(0.0226, 0.7, 0.878, 7) 
-plot.proj(500, 19500, 0.038, 0.0226, 0.031200, 0.7, 0.878, 7)
+```
 
+    ## [1] 19036.28
+
+``` r
+plot.proj(500, 19500, 0.038, 0.0226, 0.031200, 0.7, 0.878, 7)
+```
+
+![](projections_files/figure-gfm/unnamed-chunk-2-2.png)<!-- -->
+
+``` r
 plot.proj.time(0.0226, 0.7, 1.746, 7)
+```
+
+    ## [1] 37855.75
+
+``` r
 plot.proj(500, 38400, 0.038, 0.0226, 0.039710, 0.7, 1.746, 7)
 ```
 
+![](projections_files/figure-gfm/unnamed-chunk-2-3.png)<!-- -->
