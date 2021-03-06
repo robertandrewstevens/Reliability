@@ -1,8 +1,8 @@
 ---
 title: "Reliability Quotes"
 author: "Robert A. Stevens"
-date: "Monday, December 08, 2014"
-output: pdf_document
+date: "`r Sys.Date()`"
+output: github_document
 ---
 
 ## Old Reliability Paradigm

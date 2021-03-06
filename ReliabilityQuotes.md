@@ -1,0 +1,48 @@
+Reliability Quotes
+================
+Robert A. Stevens
+2021-03-05
+
+## Old Reliability Paradigm
+
+*Over 90 percent of reliability and quality costs in the U.S. industry
+are being spent to correct product design inadequacies and defects after
+they have occurred, while less than 10 percent are being spent to make
+products right in the first place.*
+
+Quotation from K.C. Kapur’s seminar on “Reliability in Engineering
+Design” - Kapur is co-author of *Reliability in Engineering Design* with
+L.R. Lamberson
+
+While this quote is more than 20 years old, things have not changed
+much. If you don’t belief that, ask yourself how many times we had a
+reliability, durability, or field test with zero failures. And why does
+the rhetorical question “if we never have time to do it right the first
+time, how come we always find the time to do it the second, third,
+fourth… time?” even exist?
+
+## Good Design Sows the Seeds of Quality
+
+*Then there’s reliability. It makes an obvious difference to farmers up
+against a shrinking harvest window and a bank loan. “Farmers tell us,
+‘Whatever you do, don’t take me out of the field,’” says Don
+Yarbrough, Deere’s manager of worldwide combine development. “Anything
+that interferes with uptime, we jump on like crazy.” Reliability also
+matters to heavy-equipment and commercial landscapers, who view their
+machines as moneymakers. And even homeowners with lawns in the suburbs
+won’t tolerate downtime - in part, because they probably don’t know how
+to make even simple repairs.*
+
+*Design News*, 2/26/2001
+
+## Using Rocket Science To Make Sugar Drinks: P\&G borrowed reliability engineering from Los Alamos to boost output - and saved $1 billion
+
+*You’d think the people who design and make nuclear weapons would have
+absolutely nothing to say to those who design and make consumer products
+like fruit drinks and diapers. But in the world of reliability
+engineering, the two sets of experts have plenty in common. In fact,
+making consumer products is actually more complex than making nukes when
+it comes to achieving reliability on the production line. It’s not
+rocket science - it’s tougher.*
+
+*Fortune Magazine*, 11/26/2001
