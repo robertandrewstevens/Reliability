@@ -33,61 +33,65 @@ plot.proj <- function(t1, t2, current, adj, proj, d, b, m) {
   segments(t2, 0, t2, adj)
   segments(t2, 0, t2, proj)
 }
+```
 
+``` r
 plot.proj(500, 1000, 0.038, 0.0226, 0.027758, 0.7, 0.526, 7)
 ```
 
-![](projections_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](projections_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
 
 ``` r
 plot.proj(500, 1000, 0.038, 0.0226, 0.031200, 0.7, 0.878, 7)
 ```
 
-![](projections_files/figure-gfm/unnamed-chunk-1-2.png)<!-- -->
+![](projections_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
 
 ``` r
 plot.proj(500, 1000, 0.038, 0.0226, 0.039710, 0.7, 1.746, 7)
 ```
 
-![](projections_files/figure-gfm/unnamed-chunk-1-3.png)<!-- -->
+![](projections_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
 
 ``` r
 plot.proj.time <- function(adj, d, b, m) {
   time <- (100 * d * m * b)/adj # 1% of adjusted
   time
 }
+```
 
+``` r
 plot.proj.time(0.0226, 0.7, 0.526, 7)
 ```
 
-    ## [1] 11404.42
+    [1] 11404.42
 
 ``` r
 plot.proj(500, 12000, 0.038, 0.0226, 0.027758, 0.7, 0.526, 7)
 ```
 
-![](projections_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+![](projections_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
 
 ``` r
 plot.proj.time(0.0226, 0.7, 0.878, 7) 
 ```
 
-    ## [1] 19036.28
+    [1] 19036.28
 
 ``` r
 plot.proj(500, 19500, 0.038, 0.0226, 0.031200, 0.7, 0.878, 7)
 ```
 
-![](projections_files/figure-gfm/unnamed-chunk-2-2.png)<!-- -->
+![](projections_files/figure-gfm/unnamed-chunk-10-1.png)<!-- -->
 
 ``` r
 plot.proj.time(0.0226, 0.7, 1.746, 7)
 ```
 
-    ## [1] 37855.75
+    [1] 37855.75
 
 ``` r
 plot.proj(500, 38400, 0.038, 0.0226, 0.039710, 0.7, 1.746, 7)
 ```
 
-![](projections_files/figure-gfm/unnamed-chunk-2-3.png)<!-- -->
+![](projections_files/figure-gfm/unnamed-chunk-12-1.png)<!-- -->
