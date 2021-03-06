@@ -2,21 +2,12 @@
 title: "Using Rocket Science To Make Sugar Drinks"
 author: "Matthew Boyle"
 date: "November 26, 2001"
-output: pdf_document
+output: github_document
 ---
 
 http://www.fortune.com/indexw.jhtml?channel=artcol.jhtml&doc_id=205246
 
-Industrial Management & Technology
-Using Rocket Science To Make Sugar Drinks; P&G borrowed reliability engineering from Los Alamos to boost output - and saved $1 billion. 
-
-Fortune Magazine 
-
-Time Inc. 
-
-Page 196B [Not Available In All Editions] 
-
-(Copyright 2001) 
+*Using Rocket Science To Make Sugar Drinks; P&G borrowed reliability engineering from Los Alamos to boost output - and saved $1 billion.*
 
 You'd think the people who design and make nuclear weapons would have absolutely nothing to say to those who design and make consumer products like fruit drinks and diapers. But in the world of reliability engineering, the two sets of experts have plenty in common. In fact, making consumer products is actually more complex than making nukes when it comes to achieving reliability on the production line. It's not rocket science - it's tougher. 
 
@@ -59,9 +50,3 @@ Middle managers often stand in the way of implementing RE. "They are stuck betwe
 Some reliability experts see nothing new in P&G's toolbox, likening it to Six Sigma and other well-established processes. Ivara, a software consulting firm in Burlington, Ontario, says P&G approached it earlier this year with a proposal to resell the RE toolbox to others. "We took it to our reliability guru, and he said this is old-world thinking," says sales manager Nick Haley, but he adds that P&G didn't share much information. 
 
 Procter & Gamble's solid reputation among engineers will get it in the door, but "they will not get sales on faith," says Rick Kalinauskas, a reliability engineer who was turned off when P&G clammed up in response to his questions during a sales pitch. What irony: A company world-renowned for its marketing aspires to market its brainpower but finds it rough going. Perhaps that's because P&G has always been tight-lipped, and old habits die hard. If P&G is going to benefit fully from its impressive new toolbox, it will have to become as savvy selling RE as it is selling shampoo. At least P&G won't have to trek out to the desert to learn that. 
-
-FEEDBACK: mboyle@fortunemail.com. Stories from the Industrial Management and Technology section can be found at fortune.com/imt. Executives in manufacturing and research and others eligible to receive FORTUNE's Industrial Edition can subscribe by calling 888- 394-5472. 
-
-Quote: "We were building lousy systems and just figuring out how to fix them faster and faster." What irony: When a world-renowned marketer aspires to market its brainpower, it finds the going rough. 
-
-PHOTOGRAPHS BY GREGORY FOSTER Bottles of Sunny Delight weave through the production line at P&G's Atlanta plant. COLOR PHOTO: PHOTOGRAPHS BY GREGORY FOSTER The "surge table" prevents minor glitches in production from stopping the entire line. COLOR PHOTO: PHOTOGRAPHS BY GREGORY FOSTER P&G's Lange: "We changed the way people think about what's wrong with the line." 
