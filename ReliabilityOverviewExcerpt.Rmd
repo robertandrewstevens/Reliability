@@ -1,8 +1,8 @@
 ---
 title: "Reliability Overview Excerpt"
 author: "Robert A. Stevens"
-date: "Monday, December 08, 2014"
-output: pdf_document
+date: "`r Sys.Date()`"
+output: github_document
 ---
 
 ## Benefits of Reliability
@@ -20,7 +20,7 @@ The three most obvious benefits of reliability are reduced development time, red
 
 ## Cost of Unreliability Iceberg
 
-![Cost of Unreliability Iceberg](CostOfUnreliabilityIceberg.jpg)
+![Cost of Unreliability Iceberg](CostOfUnreliabilityIceberg.jpg){width=100%}
 
 Analogous to an iceberg where the majority of mass is below the surface of the water, the highest warranty costs are often hidden costs. We often quantify the costs of warranty claims and recalls, but there are many other associated costs that are not readily quantifiable:
 
@@ -40,13 +40,13 @@ Analogous to an iceberg where the majority of mass is below the surface of the w
 
 ## Reliability and Life Cycle Costs
 
-![Reliability and Life Cycle Costs](ReliabilityAndLifeCycleCosts.jpg)
+![Reliability and Life Cycle Costs](ReliabilityAndLifeCycleCosts.jpg){width=100%}
 
 This chart provides two views of reliability and life cycle costs.  The traditional view, by measuring only the "tip of the iceberg" costs (warranty, allowances and recalls), sees program costs increasing as more effort is expended on quality/reliability improvement.  This suggests that the minimum total cost occurs in the middle.  The modern view, by measuring the "below the surface of the water" costs as well as above, sees program costs decreasing as more effort is expended on quality/reliability improvement.  This suggests that the minimum total cost occurs at 100% effort.  
 
 Many people think this means we are proscribing maximum effort on quality/reliability improvement, but that is not the intention of these charts.  They are intended to show that you do not save money by cutting back on quality/reliability.  In fact you're probably adding costs to the program, because you will incur far more warranty costs than the savings from quality/reliability effort reduction.  Maybe this is what got Chrysler in so much trouble?
 
-![Chrysler](Chrysler.jpg)
+![Chrysler](Chrysler.jpg){width=100%}
 
 Besides providing insight into defects vs. warranty cost per vehicle, this article shows what can happen when a company stops focusing on quality/reliability.  Prior to 1995, "Chrysler linked 70 percent of the executive bonuses to surveys measuring the likelihood of a customer buying another Chrysler vehicle and to a reduction of warranty repairs..."  At that time they were the darling of the automotive industry because they were as profitable as Ford and GM with only a fraction of the assets.  And Ford and GM were busy trying to figure out how Chrysler did that (Chrysler made a profit from its Neon while GM and Ford had to sell their "CAFE" cars at a loss).  Then in 1995, Chrysler changed so that only 25% of the executive bonuses were linked to quality.  And the rest, as they say, is history:  things got so bad that Chrysler is no longer with us. Is this merely a coincidence?  Maybe, maybe not - we'll never know for sure.  But we do know that customers stopped buying/leasing Chrysler products at the price points that made Chrysler so profitable, and they could not increase their prices to remain profitable and maintain market share, and so they stopped being profitable.
 
