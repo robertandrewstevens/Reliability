@@ -1,8 +1,8 @@
 ---
 title: "Reliability Overview Handout"
 author: "Robert A. Stevens"
-date: "Monday, December 08, 2014"
-output: pdf_document
+date: "`r Sys.Date()`"
+output: github_document
 ---
 
 ## Selling Reliability to Upper Management
@@ -18,13 +18,13 @@ An effective reliability improvement program involves more than statistics.  A k
     + Once those problems are identified, however, it is relatively inexpensive to fix them
     + Discovering problems later, especially after product release, may be easy - but fixing them can be extremely expensive
 
--	To achieve reliability improvement it is essential that management insist on a comprehensive reliability improvement program at the product design stage
+- To achieve reliability improvement it is essential that management insist on a comprehensive reliability improvement program at the product design stage
     + This includes tools such as failure modes and effects analysis, fault trees, reliability design reviews, and so forth
 
--	Specialized statistical tools previously used for reliability demonstration and problem assessment can be leveraged for reliability improvement
+- Specialized statistical tools previously used for reliability demonstration and problem assessment can be leveraged for reliability improvement
 
--	The tools are only as good as the available data
-    +	Thus, a key element of proactive reliability improvement is planning to get the right data
+- The tools are only as good as the available data
+    + Thus, a key element of proactive reliability improvement is planning to get the right data
     + This can involve ensuring that degradation information and data on root causes of failures are obtained, at least on a sample of product, and that appropriate accelerated testing is conducted
 
 ## Summary of "Reliability Improvement:  Issues and Tools"
@@ -105,4 +105,4 @@ http://www.barringer1.com/index.shtml
 
 *Reliability Improvement with Design of Experiments* by L.W. Condra
 
-"Using Statistically Designed Experiments to Improve Reliability and to Achieve Robust Reliability" by M. Hamada, *IEEE Transactions on Reliability*, Vol. 44, 1995, p. 206. 
+"Using Statistically Designed Experiments to Improve Reliability and to Achieve Robust Reliability" by M. Hamada, *IEEE Transactions on Reliability*, Vol. 44, 1995, p. 206
